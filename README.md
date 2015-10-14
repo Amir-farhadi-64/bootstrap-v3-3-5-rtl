@@ -3,6 +3,6 @@ bootstrap-v3-3-5-rtl
 
 my website(http://play2learn.ir)
 
-use this css file without main bootstap css , this works by itself for your rtl projects
+use this css file without main bootstap css , this work alone for your rtl projects
 
-use .wrap as a parent for all body elements
+use .wrap class parent for all body elements
