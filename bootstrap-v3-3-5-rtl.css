@@ -6798,10 +6798,10 @@ button.close {
     }
 }
 /*# sourceMappingURL=bootstrap.css.map */
-table, ul, ol, pre, .alert, .btn-group, .input-group, label, button, a, .well, .form-group {
+table, ul, ol, pre, .alert, .btn-group, .input-group, label, button, a, .well, .form-groupp, h1, h2, h3, h4, h5, h6 {
     direction: rtl;
 }
 
-table, thead, th, p, h1, h2, h3, h4, h5, h6, li, pre{
+table, thead, th, li, pre{
     text-align: right;
 }
