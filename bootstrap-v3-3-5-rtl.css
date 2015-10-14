@@ -6797,11 +6797,6 @@ button.close {
         display: none !important;
     }
 }
-/*# sourceMappingURL=bootstrap.css.map */
-table, ul, ol, pre, .alert, .btn-group, .input-group, label, button, a, .well, .form-groupp, h1, h2, h3, h4, h5, h6 {
+.wrap {
     direction: rtl;
-}
-
-table, thead, th, li, pre{
-    text-align: right;
 }
